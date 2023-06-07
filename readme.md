@@ -1,5 +1,4 @@
 
-# Algoritmos en Python
+# Curso de python
 
-Curso de complejidad algoritmica con python
 
